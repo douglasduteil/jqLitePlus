@@ -1,0 +1,32 @@
+{
+  "name": "jqLitePlus",
+  "version": "0.0.0",
+  "description": "jQuery-like extensions for jqLite",
+  "author": "https://github.com/douglasduteil/jqLitePlus/graphs/contributors",
+  "license": "MIT License, http://www.opensource.org/licenses/MIT",
+  "homepage": "http://douglasduteil.github.io/jqLitePlus",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-util": "^2.2.14",
+    "gulp": "^3.5.5",
+    "gulp-jshint": "^1.5.0",
+    "jshint-stylish": "^0.1.5",
+    "karma-firefox-launcher": "^0.1.3",
+    "karma-script-launcher": "^0.1.0",
+    "karma-chrome-launcher": "^0.1.2",
+    "karma-html2js-preprocessor": "^0.1.0",
+    "karma-jasmine": "^0.1.5",
+    "karma-coffee-preprocessor": "^0.1.3",
+    "requirejs": "^2.1.11",
+    "karma-requirejs": "^0.2.1",
+    "karma-phantomjs-launcher": "^0.1.2",
+    "karma": "^0.10.9",
+    "node-karma-wrapper": "douglasduteil/node-karma-wrapper",
+    "lodash.assign": "^2.4.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/douglasduteil/jqLitePlus.git"
+  }
+}
