@@ -1,0 +1,20 @@
+{
+  "name": "jqLitePlus",
+  "version": "0.0.0",
+  "description": "jQuery-like extensions for jqLite",
+  "author": "https://github.com/douglasduteil/jqLitePlus/graphs/contributors",
+  "license": "MIT License, http://www.opensource.org/licenses/MIT",
+  "homepage": "http://douglasduteil.github.io/jqLitePlus",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-util": "^2.2.14",
+    "gulp": "^3.5.5",
+    "gulp-jshint": "^1.5.0",
+    "jshint-stylish": "^0.1.5"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/douglasduteil/jqLitePlus.git"
+  }
+}

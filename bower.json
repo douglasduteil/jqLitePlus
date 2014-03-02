@@ -1,0 +1,13 @@
+{
+  "name": "jqLite-plus",
+  "version": "0.0.0",
+  "homepage": "https://github.com/douglasduteil/jqLitePlus",
+  "authors": [
+    "Douglas Duteil <douglasduteil@gmail.com>"
+  ],
+  "description": "jQuery-like extensions for jqLite",
+  "license": "MIT",
+  "dependencies": {
+    "angular": ">= 1"
+  }
+}
